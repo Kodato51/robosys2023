@@ -1,7 +1,14 @@
 # plusコマンド
 [![test](https://github.com/Kodato51/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/Kodato51/robosys2023/actions/workflows/test.yml)
 
-標準入力から読み込んだ数字を足す。
+標準入力から読み込んだ数字を足す
+
+## インストール方法
+* 以下のコマンドを実行
+```
+ $ git clone https://github.com/Kodato51/robosys2023.git
+ $ cd robosys2023
+```
 
 ## 使い方
 ```
